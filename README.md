@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kumport Liman
 - 🌱 I’m currently learning Asp.net and microservices
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/yusuf-kayd%C4%B1n-050014267/)
 
